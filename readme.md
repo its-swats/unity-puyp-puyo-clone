@@ -1,6 +1,6 @@
 Puyo Puyo Clone created in Unity
 
-Compiled Version available at http://www.shawnwatson.info/puyopuyo/
+Compiled Web Version available at http://www.shawnwatson.info/puyopuyo/
 
 This should be all of the files needed to create and compile a Puyo Puyo clone in Unity. Most of the meat of the project is in the Scripts folder. 
 
